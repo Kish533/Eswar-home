@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "eswar">
+    <test name ="eswartest">
+        <classes>
+            <class name="unify_qa_testcases.LoginpageTest">
+                
+                
+			<!-- <methods>
+			<include name="loginTest"></include>
+			</methods> -->
+			
+			
+			</class>
+            
+        </classes>
+        
+    </test>
+    </suite>
